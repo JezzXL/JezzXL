@@ -57,7 +57,7 @@ Desenvolvedor apaixonado por criar soluções inovadoras e interfaces intuitivas
 
 <div align="center">
 
-[![Dashboard Admin](https://github-readme-stats.vercel.app/api/pin/?username=JezzXL&repo=dashboard-admin&theme=tokyonight)](https://github.com/JezzXL/Darshboard)
+[![Dashboard Admin](https://github-readme-stats.vercel.app/api/pin/?username=JezzXL&repo=Dashboard&theme=tokyonight)](https://github.com/JezzXL/Dashboard)
 
 </div>
 
