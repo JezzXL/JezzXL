@@ -8,7 +8,7 @@
 
 Desenvolvedor apaixonado por criar soluções inovadoras e interfaces intuitivas. Focado em tecnologias modernas e boas práticas de desenvolvimento.
 
-- 🔭 Atualmente trabalhando em **Dashboard Admin com React + TypeScript**
+- 🔭 Atualmente trabalhando em **TechStore E-commerce com react e zustand**
 - 🌱 Aprendendo **Next.js, Node.js e Cloud Computing**
 - 💬 Pergunte-me sobre **React, TypeScript, JavaScript**
 - 📍 Localização: **São Luís, Maranhão - Brasil**
