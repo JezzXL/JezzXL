@@ -6,9 +6,9 @@
 
 ## 🚀 Sobre Mim
 
-Desenvolvedor Full Stack apaixonado por criar soluções inovadoras e interfaces intuitivas. Especializado em React, TypeScript e arquitetura moderna de frontend com foco em performance e experiência do usuário.
+Desenvolvedor Front End apaixonado por criar soluções inovadoras e interfaces intuitivas. Especializado em React, TypeScript e arquitetura moderna de frontend com foco em performance e experiência do usuário.
 
-- 🔭 Atualmente trabalhando em **TechStore E-commerce** (React + TypeScript + Zustand + Framer Motion)
+- 🔭 Atualmente trabalhando em **Ellas Oticas** (Next + TypeScript + Zustand + Framer Motion)
 - 🌱 Aprendendo **Next.js 14, Node.js avançado e AWS**
 - 💼 Experiência com **State Management (Zustand, Redux), Animations (Framer Motion), Tailwind CSS**
 - 📍 Localização: **São Luís, Maranhão - Brasil**
